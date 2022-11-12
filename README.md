@@ -1,7 +1,7 @@
 # chat-papyrus
 
 ## Datoss
-- Por: Danny Emanuel Muñoz Flore
+- Por: Danny Emanuel Muñoz Flores
 - Tema: Modelado con Papyrus, para el proyecto "Sistema de Gestión de Caso de Prueba"
 
 ## Diagrama de casos de uso
